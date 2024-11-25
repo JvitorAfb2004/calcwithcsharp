@@ -56,18 +56,4 @@ Resultado: 5 + 2 = 7
 
 ---
 
-## **Contribuição**  
-
-Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Faça um *fork* do projeto e envie um *pull request*!  
-
----
-
-## **Licença**  
-
-Este projeto é **open-source** e está disponível sob a licença MIT.  
-
---- 
-
-🚀 **Criado por**: [@jvitorafb](https://github.com/jvitorafb)  
-
 😊 **Divirta-se com este projeto simples e útil!**  
